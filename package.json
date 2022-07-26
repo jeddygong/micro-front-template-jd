@@ -1,0 +1,20 @@
+{
+  "name": "micro-front-template-jd",
+  "version": "1.0.0",
+  "description": "micro-frontend micro-app 基于 micro-app 的微前端模板",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeddygong/micro-front-template-jd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeddygong/micro-front-template-jd/issues"
+  },
+  "homepage": "https://github.com/jeddygong/micro-front-template-jd#readme"
+}
